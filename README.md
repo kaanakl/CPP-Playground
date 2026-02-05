@@ -22,7 +22,7 @@ Here is a list of the mini-projects included in this solution:
 | **ATM-Simulator** | *Basic banking logic simulation.* | `switch-case`, `loops` |
 | **Number-Guess** | *A random number guessing game.* | `rand()`, `while loops` |
 
-*(Note: Use this table to track your future projects. Update it whenever you add a new one!)*
+
 
 ---
 
@@ -35,4 +35,4 @@ Since this is a Visual Studio Solution containing multiple projects:
 4. Press **F5** (Run).
 
 ---
-*Happy Coding!* 👨‍💻
+
