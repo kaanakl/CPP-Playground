@@ -7,7 +7,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello-World", "Hello-World\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BMI-Calculator", "BMI-Calculator\BMI-Calculator.vcxproj", "{267E1548-D5DC-4781-ABCD-4E510E719E9D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LCPP-Ch4-Q!", "LCPP-Ch4-Q!\LCPP-Ch4-Q!.vcxproj", "{4C5DE7DA-CB27-4EA4-A59D-23D61F34C79E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LCPP-Ch4-Simple-Calculator", "LCPP-Ch4-Q!\LCPP-Ch4-Q!.vcxproj", "{4C5DE7DA-CB27-4EA4-A59D-23D61F34C79E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LCPP-Ch4-Gravity-Calculator", "LCPP-Ch4-Gravity-Calculator\LCPP-Ch4-Gravity-Calculator.vcxproj", "{B0EBC798-D7D5-44B9-9EEF-F513A1F42126}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,14 @@ Global
 		{4C5DE7DA-CB27-4EA4-A59D-23D61F34C79E}.Release|x64.Build.0 = Release|x64
 		{4C5DE7DA-CB27-4EA4-A59D-23D61F34C79E}.Release|x86.ActiveCfg = Release|Win32
 		{4C5DE7DA-CB27-4EA4-A59D-23D61F34C79E}.Release|x86.Build.0 = Release|Win32
+		{B0EBC798-D7D5-44B9-9EEF-F513A1F42126}.Debug|x64.ActiveCfg = Debug|x64
+		{B0EBC798-D7D5-44B9-9EEF-F513A1F42126}.Debug|x64.Build.0 = Debug|x64
+		{B0EBC798-D7D5-44B9-9EEF-F513A1F42126}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0EBC798-D7D5-44B9-9EEF-F513A1F42126}.Debug|x86.Build.0 = Debug|Win32
+		{B0EBC798-D7D5-44B9-9EEF-F513A1F42126}.Release|x64.ActiveCfg = Release|x64
+		{B0EBC798-D7D5-44B9-9EEF-F513A1F42126}.Release|x64.Build.0 = Release|x64
+		{B0EBC798-D7D5-44B9-9EEF-F513A1F42126}.Release|x86.ActiveCfg = Release|Win32
+		{B0EBC798-D7D5-44B9-9EEF-F513A1F42126}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
